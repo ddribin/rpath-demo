@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface SpiffyAppDelegate : NSObject <NSApplicationDelegate> {
+@interface SpiffyAppDelegate : NSObject {
     NSWindow *window;
 }
 
