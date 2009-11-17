@@ -6,4 +6,4 @@
 //  Copyright 2009 __MyCompanyName__. All rights reserved.
 //
 
-#import "SpiffyObject.h"
+#import "SpiffyKit/SpiffyObject.h"
